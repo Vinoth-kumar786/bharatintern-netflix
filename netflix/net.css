@@ -1,0 +1,136 @@
+.net {
+    font-size: 50px;
+    color: red;
+}
+*{
+   background-color: black;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: 100% 100%;
+}
+.button{
+    float:right;
+    padding-right: 10%;
+}
+.button >button{
+    height: 41px;
+    width: 90px;
+    font-size: larger;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color:red;
+}
+
+.con {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
+
+.cont {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+input {
+    color: white;
+    height: 50px;
+    width:500px ;
+    text-align: center;
+    border-width: 3px;
+    border-color: white;
+}
+.mail >button{
+  text-align: center;
+  width: 150px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color:red;
+}
+.mail{
+    display: block;
+  text-align: center;
+}
+.tv
+{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+
+}
+.tv1
+{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.imgtv >img
+{
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+.mob
+{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
+.mob1
+{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.imgmob >img
+{
+    height: 800px;
+    display: block;
+    margin: auto;
+}
+.tab
+{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
+.tab1
+{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.imgtab >img
+{
+    display: block;
+    margin: auto;
+}
+.chil
+{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
+.chil1
+{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.five >img
+{
+   display: block;
+   margin: auto;
+    
+}
+.footer >pre
+{
+    color: white;
+    font-size: 40px;
+    font-style: normal; 
+}
